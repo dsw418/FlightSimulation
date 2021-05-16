@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FlightSimulation</string>
+    <string name="title_activity_flight_path">Map</string>
+
+    <string name="setFlightPath">Create New Flight Path</string>
+    <string name="verifyFlightPath"> Verify/Edit Flight Path</string>
+
+    <string name="gps_waypoint">GPS Waypoint</string>
+    <string name="map_waypoint">Waypoint Map Selection</string>
+    <string name="mark_feature">Mark Feature</string>
+    <string name="acceptMission">Accept Mission</string>
+    <string name="return_to_start">Return to Start</string>
+    <string name="gps_accuracy">GPS Accuracy:</string>
+
+    <string name="drag_message">Would you like to delete or replace this waypoint?</string>
+    <string name="altitude_message">Insert Flight Altitude in meters</string>
+    <string name="no_altitude_message">No Altitude Was Entered</string>
+
+    <string name="add_waypoint">Add Waypoint</string>
+    <string name="mission_end">Mission End</string>
+    <string name="mission_start">Mission Start</string>
+    <string name="color_code">Color Code: \u0020</string>
+    <string name="delete_message">Would you like to delete this waypoint?</string>
+    <string name="delete_waypoint">Delete Waypoint</string>
+    <string name="simulate_flight">Simulate Flight</string>
+</resources>
